@@ -1,0 +1,30 @@
+﻿{
+    "data": [
+        {
+            "NO.": "1",
+            "NOMBRE DEL PRODUCTOR": "CORTES FABELA SAUL",
+            "NOMBRE DEL HUERTO": "LOS 3 CORTES 2",
+            "SUPERFICIE": "3.00",
+            "CARTILLA": "6744",
+            "REG. SADER": "HUE08160336562",
+            "LOCALIDAD": "CHARAPENDO",
+            "LATITUD": "19.29317",
+            "LONGITUD": "-102.07646",
+            "ASNM": "1194",
+            "undefined": "GABRIEL ZAMORA"
+        },
+        {
+            "NO.": "2",
+            "NOMBRE DEL PRODUCTOR": "GUTIERREZ GONZALEZ MARIA LISETTE",
+            "NOMBRE DEL HUERTO": "GUTIERREZ",
+            "SUPERFICIE": "5.00",
+            "CARTILLA": "6004",
+            "REG. SADER": "HUE08160335827",
+            "LOCALIDAD": "CHARAPENDO",
+            "LATITUD": "19.28137",
+            "LONGITUD": "-102.07172",
+            "ASNM": "1350",
+            "undefined": "GABRIEL ZAMORA"
+        }
+    ]
+}

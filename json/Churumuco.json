@@ -1,0 +1,95 @@
+﻿{
+    "data": [
+        {
+            "NO.": "1",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "EL PLAN",
+            "SUPERFICIE": "18.20",
+            "CARTILLA": "0003",
+            "REG. SADER": "HUE08160290003",
+            "LOCALIDAD": "EL POTRERO DE CORPUS",
+            "LATITUD": "18.90776",
+            "LONGITUD": "-101.59873",
+            "ASNM": "1306",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "2",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "EL PLAN (1)",
+            "SUPERFICIE": "15.00",
+            "CARTILLA": "0004",
+            "REG. SADER": "HUE08160290004",
+            "LOCALIDAD": "EL POTRERO DE CORPUS",
+            "LATITUD": "18.90206",
+            "LONGITUD": "-101.59605",
+            "ASNM": "1288",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "3",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "EL PLAN (3)",
+            "SUPERFICIE": "2.80",
+            "CARTILLA": "0008",
+            "REG. SADER": "HUE08160290008",
+            "LOCALIDAD": "EL POTRERO DE CORPUS",
+            "LATITUD": "18.89786",
+            "LONGITUD": "-101.59268",
+            "ASNM": "1360",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "4",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "EL PLAN (4)",
+            "SUPERFICIE": "1.50",
+            "CARTILLA": "0011",
+            "REG. SADER": "HUE08160290011",
+            "LOCALIDAD": "EL POTRERO DE CORPUS",
+            "LATITUD": "18.90490",
+            "LONGITUD": "-101.58264",
+            "ASNM": "1518",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "5",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "EL PLAN (5)",
+            "SUPERFICIE": "0.60",
+            "CARTILLA": "0012",
+            "REG. SADER": "HUE08160290012",
+            "LOCALIDAD": "EL POTRERO DE CORPUS",
+            "LATITUD": "18.90563",
+            "LONGITUD": "-101.58672",
+            "ASNM": "1459",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "6",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "LAS ANIMAS",
+            "SUPERFICIE": "6.60",
+            "CARTILLA": "0001",
+            "REG. SADER": "HUE08160290001",
+            "LOCALIDAD": "SAN HILARIO",
+            "LATITUD": "18.88562",
+            "LONGITUD": "-101.60780",
+            "ASNM": "1426",
+            "undefined": "CHURUMUCO"
+        },
+        {
+            "NO.": "7",
+            "NOMBRE DEL PRODUCTOR": "HURTADO FLORES VICTORINO",
+            "NOMBRE DEL HUERTO": "LAS TRANCAS",
+            "SUPERFICIE": "2.50",
+            "CARTILLA": "0002",
+            "REG. SADER": "HUE08160290002",
+            "LOCALIDAD": "LAS TRANCAS",
+            "LATITUD": "18.89321",
+            "LONGITUD": "-101.61423",
+            "ASNM": "1114",
+            "undefined": "CHURUMUCO"
+        }
+    ]
+}

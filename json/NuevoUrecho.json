@@ -1,0 +1,43 @@
+﻿{
+    "data": [
+        {
+            "NO.": "1",
+            "NOMBRE DEL PRODUCTOR": "AGUIRRE BAÑOS ENRIQUE ANTONIO",
+            "NOMBRE DEL HUERTO": "LA ESPERANZA 7",
+            "SUPERFICIE": "12.09",
+            "CARTILLA": "0012",
+            "REG. SADER": "HUE08160590012",
+            "LOCALIDAD": "EJ. SAN JOAQUIN",
+            "LATITUD": "19.08033",
+            "LONGITUD": "-101.78733",
+            "ASNM": "1365",
+            "undefined": "NUEVO URECHO"
+        },
+        {
+            "NO.": "2",
+            "NOMBRE DEL PRODUCTOR": "AGUIRRE BAÑOS ENRIQUE ANTONIO",
+            "NOMBRE DEL HUERTO": "SAN JOAQUIN 1",
+            "SUPERFICIE": "30.00",
+            "CARTILLA": "0001",
+            "REG. SADER": "HUE08160590001",
+            "LOCALIDAD": "EJ. SAN JOAQUIN",
+            "LATITUD": "19.07237",
+            "LONGITUD": "-101.78254",
+            "ASNM": "1240",
+            "undefined": "NUEVO URECHO"
+        },
+        {
+            "NO.": "3",
+            "NOMBRE DEL PRODUCTOR": "CORREA MENDEZ ROSENDO",
+            "NOMBRE DEL HUERTO": "EL SOCABON",
+            "SUPERFICIE": "4.29",
+            "CARTILLA": "0013",
+            "REG. SADER": "HUE08160590013",
+            "LOCALIDAD": "EJ. LAS TROJAS",
+            "LATITUD": "19.09906",
+            "LONGITUD": "-101.83404",
+            "ASNM": "1119",
+            "undefined": "NUEVO URECHO"
+        }
+    ]
+}
