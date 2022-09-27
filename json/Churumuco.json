@@ -10,8 +10,7 @@
             "LOCALIDAD": "EL POTRERO DE CORPUS",
             "LATITUD": "18.90776",
             "LONGITUD": "-101.59873",
-            "ASNM": "1306",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1306"
         },
         {
             "NO.": "2",
@@ -23,8 +22,7 @@
             "LOCALIDAD": "EL POTRERO DE CORPUS",
             "LATITUD": "18.90206",
             "LONGITUD": "-101.59605",
-            "ASNM": "1288",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1288"
         },
         {
             "NO.": "3",
@@ -36,8 +34,7 @@
             "LOCALIDAD": "EL POTRERO DE CORPUS",
             "LATITUD": "18.89786",
             "LONGITUD": "-101.59268",
-            "ASNM": "1360",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1360"
         },
         {
             "NO.": "4",
@@ -49,8 +46,7 @@
             "LOCALIDAD": "EL POTRERO DE CORPUS",
             "LATITUD": "18.90490",
             "LONGITUD": "-101.58264",
-            "ASNM": "1518",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1518"
         },
         {
             "NO.": "5",
@@ -62,8 +58,7 @@
             "LOCALIDAD": "EL POTRERO DE CORPUS",
             "LATITUD": "18.90563",
             "LONGITUD": "-101.58672",
-            "ASNM": "1459",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1459"
         },
         {
             "NO.": "6",
@@ -75,8 +70,7 @@
             "LOCALIDAD": "SAN HILARIO",
             "LATITUD": "18.88562",
             "LONGITUD": "-101.60780",
-            "ASNM": "1426",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1426"
         },
         {
             "NO.": "7",
@@ -88,8 +82,7 @@
             "LOCALIDAD": "LAS TRANCAS",
             "LATITUD": "18.89321",
             "LONGITUD": "-101.61423",
-            "ASNM": "1114",
-            "undefined": "CHURUMUCO"
+            "ASNM": "1114"
         }
     ]
 }

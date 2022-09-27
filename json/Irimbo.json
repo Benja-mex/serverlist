@@ -10,8 +10,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.68904",
             "LONGITUD": "-100.47100",
-            "ASNM": "2201",
-            "undefined": "IRIMBO"
+            "ASNM": "2201"
         },
         {
             "NO.": "2",
@@ -23,8 +22,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.67740",
             "LONGITUD": "-100.46412",
-            "ASNM": "2212",
-            "undefined": "IRIMBO"
+            "ASNM": "2212"
         },
         {
             "NO.": "3",
@@ -36,8 +34,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.68398",
             "LONGITUD": "-100.46834",
-            "ASNM": "2201",
-            "undefined": "IRIMBO"
+            "ASNM": "2201"
         },
         {
             "NO.": "4",
@@ -49,8 +46,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.68314",
             "LONGITUD": "-100.47083",
-            "ASNM": "2188",
-            "undefined": "IRIMBO"
+            "ASNM": "2188"
         },
         {
             "NO.": "5",
@@ -62,8 +58,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.67854",
             "LONGITUD": "-100.46899",
-            "ASNM": "2196",
-            "undefined": "IRIMBO"
+            "ASNM": "2196"
         },
         {
             "NO.": "6",
@@ -75,8 +70,7 @@
             "LOCALIDAD": "IRIMBO",
             "LATITUD": "19.70344",
             "LONGITUD": "-100.47236",
-            "ASNM": "2208",
-            "undefined": "IRIMBO"
+            "ASNM": "2208"
         }
     ]
 }

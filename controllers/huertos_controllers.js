@@ -251,6 +251,12 @@ const uruapanGet = (req = request, res = response) => {
 
     res.json(jsonData);
 }
+const municipiosGet = (req = request, res = response) => {
+    
+    let jsonData = require('../json/Municipios.json');
+
+    res.json(jsonData);
+}
 
 
 module.exports={
@@ -294,5 +300,6 @@ module.exports={
     zacapuGet,
     ziracuaretiroGet,
     zitacuaroGet,
-    uruapanGet
+    uruapanGet,
+    municipiosGet
 }

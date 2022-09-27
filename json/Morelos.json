@@ -10,8 +10,7 @@
             "LOCALIDAD": "SAN JUAN ",
             "LATITUD": "19.98543",
             "LONGITUD": "-101.42604",
-            "ASNM": "2305",
-            "undefined": "MORELOS"
+            "ASNM": "2305"
         },
         {
             "NO.": "2",
@@ -23,8 +22,7 @@
             "LOCALIDAD": "SAN JUAN ",
             "LATITUD": "19.98631",
             "LONGITUD": "-101.42736",
-            "ASNM": "2292",
-            "undefined": "MORELOS"
+            "ASNM": "2292"
         },
         {
             "NO.": "3",
@@ -36,8 +34,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "20.00600",
             "LONGITUD": "-101.40733",
-            "ASNM": "2310",
-            "undefined": "MORELOS"
+            "ASNM": "2310"
         },
         {
             "NO.": "4",
@@ -49,8 +46,7 @@
             "LOCALIDAD": "SAN ANGEL ",
             "LATITUD": "19.95766",
             "LONGITUD": "-101.40596",
-            "ASNM": "2431",
-            "undefined": "MORELOS"
+            "ASNM": "2431"
         },
         {
             "NO.": "5",
@@ -62,8 +58,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "20.00830",
             "LONGITUD": "-101.40946",
-            "ASNM": "2329",
-            "undefined": "MORELOS"
+            "ASNM": "2329"
         },
         {
             "NO.": "6",
@@ -75,8 +70,7 @@
             "LOCALIDAD": "ZIRACUARENDIRO ",
             "LATITUD": "19.97022",
             "LONGITUD": "-101.52280",
-            "ASNM": "2233",
-            "undefined": "MORELOS"
+            "ASNM": "2233"
         },
         {
             "NO.": "7",
@@ -88,8 +82,7 @@
             "LOCALIDAD": "SAN JUAN",
             "LATITUD": "19.99297",
             "LONGITUD": "-101.43383",
-            "ASNM": "2286",
-            "undefined": "MORELOS"
+            "ASNM": "2286"
         },
         {
             "NO.": "8",
@@ -101,8 +94,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "19.99238",
             "LONGITUD": "-101.39992",
-            "ASNM": "2287",
-            "undefined": "MORELOS"
+            "ASNM": "2287"
         },
         {
             "NO.": "9",
@@ -114,8 +106,7 @@
             "LOCALIDAD": "SAN MIGUEL ",
             "LATITUD": "19.96851",
             "LONGITUD": "-101.44239",
-            "ASNM": "2344",
-            "undefined": "MORELOS"
+            "ASNM": "2344"
         },
         {
             "NO.": "10",
@@ -127,8 +118,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "20.00632",
             "LONGITUD": "-101.43957",
-            "ASNM": "2389",
-            "undefined": "MORELOS"
+            "ASNM": "2389"
         },
         {
             "NO.": "11",
@@ -140,8 +130,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "20.00543",
             "LONGITUD": "-101.44018",
-            "ASNM": "2400",
-            "undefined": "MORELOS"
+            "ASNM": "2400"
         },
         {
             "NO.": "12",
@@ -153,8 +142,7 @@
             "LOCALIDAD": "JURUREMBA",
             "LATITUD": "20.01794",
             "LONGITUD": "-101.43734",
-            "ASNM": "2315",
-            "undefined": "MORELOS"
+            "ASNM": "2315"
         },
         {
             "NO.": "13",
@@ -166,8 +154,7 @@
             "LOCALIDAD": "JURUREMBA",
             "LATITUD": "20.01882",
             "LONGITUD": "-101.43619",
-            "ASNM": "2332",
-            "undefined": "MORELOS"
+            "ASNM": "2332"
         },
         {
             "NO.": "14",
@@ -179,8 +166,7 @@
             "LOCALIDAD": "JURUREMBA",
             "LATITUD": "20.01882",
             "LONGITUD": "-101.43619",
-            "ASNM": "2350",
-            "undefined": "MORELOS"
+            "ASNM": "2350"
         },
         {
             "NO.": "15",
@@ -192,8 +178,7 @@
             "LOCALIDAD": "VILLA MORELOS ",
             "LATITUD": "20.01409",
             "LONGITUD": "-101.40335",
-            "ASNM": "2431",
-            "undefined": "MORELOS"
+            "ASNM": "2431"
         }
     ]
 }

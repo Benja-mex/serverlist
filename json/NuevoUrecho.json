@@ -10,8 +10,7 @@
             "LOCALIDAD": "EJ. SAN JOAQUIN",
             "LATITUD": "19.08033",
             "LONGITUD": "-101.78733",
-            "ASNM": "1365",
-            "undefined": "NUEVO URECHO"
+            "ASNM": "1365"
         },
         {
             "NO.": "2",
@@ -23,8 +22,7 @@
             "LOCALIDAD": "EJ. SAN JOAQUIN",
             "LATITUD": "19.07237",
             "LONGITUD": "-101.78254",
-            "ASNM": "1240",
-            "undefined": "NUEVO URECHO"
+            "ASNM": "1240"
         },
         {
             "NO.": "3",
@@ -36,8 +34,7 @@
             "LOCALIDAD": "EJ. LAS TROJAS",
             "LATITUD": "19.09906",
             "LONGITUD": "-101.83404",
-            "ASNM": "1119",
-            "undefined": "NUEVO URECHO"
+            "ASNM": "1119"
         }
     ]
 }
