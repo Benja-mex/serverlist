@@ -1,127 +1,127 @@
 {
     "municipios":[
         {
-            "NOMBRE":"Acuitzio"
+            "nombre":"Acuitzio"
         },
         {
-            "NOMBRE":"Angangueo"
+            "nombre":"Angangueo"
         },
         {
-            "NOMBRE":"Apatzingan"
+            "nombre":"Apatzingan"
         },
         {
-            "NOMBRE":"Ario"
+            "nombre":"Ario"
         },
         {
-            "NOMBRE":"Charapan"
+            "nombre":"Charapan"
         },
         {
-            "NOMBRE":"Charo"
+            "nombre":"Charo"
         },
         {
-            "NOMBRE":"Churumuco"
+            "nombre":"Churumuco"
         },
         {
-            "NOMBRE":"Cotija"
+            "nombre":"Cotija"
         },
         {
-            "NOMBRE":"Erongaricuaro"
+            "nombre":"Erongaricuaro"
         },
         {
-            "NOMBRE":"Gabriel Zamora"
+            "nombre":"Gabriel Zamora"
         },
         {
-            "NOMBRE":"Hidalgo"
+            "nombre":"Hidalgo"
         },
         {
-            "NOMBRE":"Huiramba"
+            "nombre":"Huiramba"
         },
         {
-            "NOMBRE":"Irimbo"
+            "nombre":"Irimbo"
         },
         {
-            "NOMBRE":"Jimenez"
+            "nombre":"Jimenez"
         },
         {
-            "NOMBRE":"Los Reyes"
+            "nombre":"Los Reyes"
         },
         {
-            "NOMBRE":"Madero"
+            "nombre":"Madero"
         },
         {
-            "NOMBRE":"Morelia"
+            "nombre":"Morelia"
         },
         {
-            "NOMBRE":"Morelos"
+            "nombre":"Morelos"
         },
         {
-            "NOMBRE":"Nuevo Parangaricutiro"
+            "nombre":"Nuevo Parangaricutiro"
         },
         {
-            "NOMBRE":"Nuevo Urecho"
+            "nombre":"Nuevo Urecho"
         },
         {
-            "NOMBRE":"Ocampo"
+            "nombre":"Ocampo"
         },
         {
-            "NOMBRE":"Paracuaro"
+            "nombre":"Paracuaro"
         },
         {
-            "NOMBRE":"Patzcuaro"
+            "nombre":"Patzcuaro"
         },
         {
-            "NOMBRE":"Pariban"
+            "nombre":"Pariban"
         },
         {
-            "NOMBRE":"Quiroga"
+            "nombre":"Quiroga"
         },
         {
-            "NOMBRE":"Salvador Escalante"
+            "nombre":"Salvador Escalante"
         },
         {
-            "NOMBRE":"Tacambaro"
+            "nombre":"Tacambaro"
         },
         {
-            "NOMBRE":"Tancitaro"
+            "nombre":"Tancitaro"
         },
         {
-            "NOMBRE":"Tangamandapio"
+            "nombre":"Tangamandapio"
         },
         {
-            "NOMBRE":"Tangancicuaro"
+            "nombre":"Tangancicuaro"
         },
         {
-            "NOMBRE":"Taretan"
+            "nombre":"Taretan"
         },
         {
-            "NOMBRE":"Tingambato"
+            "nombre":"Tingambato"
         },
         {
-            "NOMBRE":"Tinguindin"
+            "nombre":"Tinguindin"
         },
         {
-            "NOMBRE":"Tlazazalca"
+            "nombre":"Tlazazalca"
         },
         {
-            "NOMBRE":"Tocumbo"
+            "nombre":"Tocumbo"
         },
         {
-            "NOMBRE":"Tuxpan"
+            "nombre":"Tuxpan"
         },
         {
-            "NOMBRE":"Tzintzuntzan"
+            "nombre":"Tzintzuntzan"
         },
         {
-            "NOMBRE":"Uruapan"
+            "nombre":"Uruapan"
         },
         {
-            "NOMBRE":"Zacapu"
+            "nombre":"Zacapu"
         },
         {
-            "NOMBRE":"Ziracuaretiro"
+            "nombre":"Ziracuaretiro"
         },
         {
-            "NOMBRE":"Zitacuaro"
+            "nombre":"Zitacuaro"
         }
     ]
 }
