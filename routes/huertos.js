@@ -45,5 +45,5 @@ router.get('/ziracuaretiro',ziracuaretiroGet)
 router.get('/zitacuaro',zitacuaroGet)
 router.get('/uruapan',uruapanGet)
 router.get('/municipios',municipiosGet)
-router.get('/huertos/d:',huertosGet)
+router.get('/huertos/:d',huertosGet)
 module.exports = router;
