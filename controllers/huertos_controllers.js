@@ -262,7 +262,7 @@ const huertosGet = (req = request, res = response) => {
     console.log(  req.params)
     let jsonData = require('../json/Acuitzio.json');
 
-    res.json(jsonData);
+    res.json(req.params);
 }
 
 
