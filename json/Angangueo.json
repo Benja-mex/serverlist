@@ -1,16 +1,16 @@
 ﻿{
     "data": [
         {
-            "NO.": "1",
-            "NOMBRE DEL PRODUCTOR": "FACIO PEREZ JOSE RICARDO",
-            "NOMBRE DEL HUERTO": "LAS ISABELES",
-            "SUPERFICIE": "3.00",
-            "CARTILLA": "34",
-            "REG. SADER": "HUE08160050034",
-            "LOCALIDAD": "NICOLAS ROMERO",
-            "LATITUD": "19.63421",
-            "LONGITUD": "-100.30805",
-            "ASNM": "2490"
+            "no": "1",
+            "productor": "FACIO PEREZ JOSE RICARDO",
+            "huerto": "LAS ISABELES",
+            "superficie": "3.00",
+            "cartilla": "34",
+            "sader": "HUE08160050034",
+            "localidad": "NICOLAS ROMERO",
+            "latitud": "19.63421",
+            "longitud": "-100.30805",
+            "asnm": "2490"
         }
     ]
 }
