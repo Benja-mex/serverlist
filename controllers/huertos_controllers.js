@@ -257,6 +257,12 @@ const municipiosGet = (req = request, res = response) => {
 
     res.json(jsonData);
 }
+const michoacanGet = (req = request, res = response) => {
+    
+    let jsonData = require('../json/Michoacan.json');
+
+    res.json(jsonData);
+}
 const huertosGet = (req = request, res = response) => {
     
     console.log(  req.params)
@@ -309,5 +315,6 @@ module.exports={
     zitacuaroGet,
     uruapanGet,
     municipiosGet,
-    huertosGet
+    huertosGet,
+    michoacanGet
 }
