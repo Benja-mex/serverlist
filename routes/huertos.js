@@ -1,11 +1,12 @@
 const { Router } = require('express');
-const { uruapanGet, acuitzioGet, angangueoGet, arioGet, charoGet, charapanGet, churumucoGet, cotijaGet, erongaricuaroGet, grabrielzamoraGet, hidalgoGet, huirambaGet, irimboGet, jimenezGet, losreyesGet, maderoGet, moreliaGet, morelosGet, nuevoparangaricutiroGet, nuevourechoGet, ocampoGet, paracuaroGet, patzcuaroGet, peribanGet, quirogaGet, salvadorescalanteGet, tacambaroGet, tangamandapioGet, tangancicuaroGet, tancitaroGet, taretanGet, tingambatoGet, tinguindinGet, tlazazalcaGet, tocumboGet, tuxpanGet, tzintzuntzanGet, zacapuGet, ziracuaretiroGet, zitacuaroGet, municipiosGet, huertosGet, michoacanGet } = require('../controllers/huertos_controllers');
+const { uruapanGet, acuitzioGet, angangueoGet, arioGet, charoGet, charapanGet, churumucoGet, cotijaGet, erongaricuaroGet, grabrielzamoraGet, hidalgoGet, huirambaGet, irimboGet, jimenezGet, losreyesGet, maderoGet, moreliaGet, morelosGet, nuevoparangaricutiroGet, nuevourechoGet, ocampoGet, paracuaroGet, patzcuaroGet, peribanGet, quirogaGet, salvadorescalanteGet, tacambaroGet, tangamandapioGet, tangancicuaroGet, tancitaroGet, taretanGet, tingambatoGet, tinguindinGet, tlazazalcaGet, tocumboGet, tuxpanGet, tzintzuntzanGet, zacapuGet, ziracuaretiroGet, zitacuaroGet, municipiosGet, huertosGet, michoacanGet, apatzinganGet } = require('../controllers/huertos_controllers');
 
 const router = Router();
 
 
 router.get('/acuitzio',acuitzioGet)
 router.get('/angangueo',angangueoGet)
+router.get('/apatzingan',apatzinganGet)
 router.get('/ario',arioGet)
 router.get('/charapan',charapanGet)
 router.get('/charo',charoGet)
